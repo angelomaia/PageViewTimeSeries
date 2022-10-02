@@ -1,5 +1,5 @@
-# Demographic Data Analyzer
+# Page View Time Series
 
-Resolution of freeCodeCamp challenge #2 from Data Analysis with Python certification:
+Resolution of freeCodeCamp challenge #4 from Data Analysis with Python certification:
 
-"In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database."
+"For this project you will visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth."
